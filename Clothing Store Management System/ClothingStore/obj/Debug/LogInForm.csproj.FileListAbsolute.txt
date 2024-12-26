@@ -1,0 +1,88 @@
+C:/OOP2/Projects/LogInForm/bin/Debug/LogInForm.exe.config
+C:/OOP2/Projects/LogInForm/bin/Debug/LogInForm.pdb
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.csproj.AssemblyReference.cache
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.Properties.Resources.resources
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.csproj.GenerateResource.cache
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.csproj.CoreCompileInputs.cache
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.exe
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.pdb
+C:/OOP2/Projects/LogInForm/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Buffers.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Memory.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Numerics.Vectors.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Text.Encodings.Web.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Text.Json.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Threading.Tasks.Extensions.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/System.ValueTuple.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Buffers.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Memory.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Numerics.Vectors.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Text.Encodings.Web.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Text.Json.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.Threading.Tasks.Extensions.xml
+C:/OOP2/Projects/LogInForm/bin/Debug/System.ValueTuple.xml
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.csproj.CopyComplete
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.FormLogin.resources
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.Form2.resources
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.Form3.resources
+C:/OOP2/Projects/LogInForm/bin/Debug/Guna.UI.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/Guna.UI2.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/Oracle.DataAccess.dll
+C:/OOP2/Projects/LogInForm/bin/Debug/Oracle.Web.dll
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.MenUC.UCNextPage.resources
+C:/OOP2/Projects/LogInForm/obj/Debug/LogInForm.MenUC.UCPreviousPage.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/LogInForm.exe.config
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/LogInForm.exe
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/LogInForm.pdb
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/Guna.UI2.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/Oracle.ManagedDataAccess.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Buffers.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Memory.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Numerics.Vectors.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Text.Encodings.Web.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Text.Json.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Threading.Tasks.Extensions.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.ValueTuple.dll
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Buffers.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Memory.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Numerics.Vectors.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Text.Encodings.Web.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Text.Json.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.Threading.Tasks.Extensions.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/bin/Debug/System.ValueTuple.xml
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormAddUser.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormADUProduct.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormAddProduct.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormDeleteProduct.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSalesmanKids.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSalesmanProfile.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSalesmanWomen.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormLogin.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormAdmin.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSalesmanMen.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormAdminProfile.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSignUp.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormUpdateProduct.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.Properties.Resources.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.csproj.GenerateResource.cache
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.csproj.CoreCompileInputs.cache
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.csproj.CopyComplete
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.exe
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.pdb
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormADUUser.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.csproj.AssemblyReference.cache
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormDeleteUser.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormViewProduct.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormViewUser.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormChangePassword.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSellProduct.resources
+C:/Users/ASUS/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.FormSalesmanSalesHistory.resources
+/Users/imamhasansadi/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.exe
+/Users/imamhasansadi/Downloads/LogInForm [project]/LogInForm/obj/Debug/LogInForm.pdb
